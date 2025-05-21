@@ -41,7 +41,9 @@ This project generates photomosaics by reconstructing a source image using thous
 -GUI interface for image selection and tile config
 
 ## Author
-Shailee Patel
-📧 shaileepatel05@gmail.com
+Shailee Patel <br>
+Email: shaileepatel05@gmail.com <br>
+LinkedIn: linkedin.com/in/shailee-patel-04481b285<br>
+GitHub: github.com/shailee2
 
 
